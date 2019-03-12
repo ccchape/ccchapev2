@@ -2,7 +2,7 @@
     <head>
         <meta charset="utf-8" />
         <title>Liga Chapecoense de Programação</title>
-        <link rel="stylesheet" href="/stylesheet.css" />
+        <link rel="stylesheet" href="/static/stylesheet.css" />
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -20,13 +20,13 @@
 
     <body>
         <div class="container">
-        
+
         </div>
         <nav class="navbar navbar-expand-lg" >
         <div class="container">
 
                 <a class="navbar-brand" href="#" title="Liga Chapecoense de Programação">
-                  <img src="/45074329.png" style="max-width: 50px; " /> 
+                  <img src="/static/logo.png" style="max-width: 50px; " />
                 </a>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -37,27 +37,27 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                      <a class="nav-link" href="#"> 
-                          Como participar? 
+                      <a class="nav-link" href="#">
+                          Como participar?
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#"> 
-                          Categoria Prodígio 
+                      <a class="nav-link" href="#">
+                          Categoria Prodígio
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#"> 
-                          Categoria Júnior 
+                      <a class="nav-link" href="#">
+                          Categoria Júnior
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#"> 
-                          Categoria Sênior 
+                      <a class="nav-link" href="#">
+                          Categoria Sênior
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="#"> 
+                      <a class="nav-link" href="#">
                           Formulário de Inscrição
                       </a>
                     </li>
