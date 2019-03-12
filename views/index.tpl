@@ -21,14 +21,10 @@
     <body>
         <div class="container">
 
-        </div>
-        <nav class="navbar navbar-expand-lg" >
-        <div class="container">
-
-                <a class="navbar-brand" href="#" title="Liga Chapecoense de Programação">
-                  <img src="/static/logo.png" style="max-width: 50px; " />
-                </a>
-
+        <nav class="navbar navbar-expand-lg bg-success text-light" >
+          <a class="navbar-brand" href="#" title="Liga Chapecoense de Programação">
+            <img src="/static/logo.png" style="max-width: 50px; " />
+          </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-icon"></span>
                   <span class="navbar-icon"></span>
@@ -63,18 +59,55 @@
                     </li>
                   </ul>
                 </div>
+        </nav>
+      </div>
 
+      <div class="container">
 
-        </div>
-              </nav>
+          Conteúdo.
 
-        <div class="container">
+      </div>
 
+      <div class="container">
+        <!-- Footer -->
+        <footer class="page-footer font-small blue pt-4">
 
-        </div>
+            <!-- Footer Links -->
+            <!-- <div class="container-fluid text-center text-md-left"> -->
+              <!-- Content -->
+              <h5 class="text">Liga Chapecoense de Programação</h5>
 
-        <div>
+              <!-- Grid row -->
+              <div class="row text-muted">
 
+                <!-- Grid column -->
+                <!-- <div class="col-md-6 mt-md-0 mt-3"> -->
+                <div class="col-md-6 mt-md-0 mt-3">
+                  <ul class="list-unstyled social-media-list">
+                    <li><a href="https://github.com/ccchape"><svg class="svg-icon">
+                      <use xlink:href="/static/minima-social-icons.svg#github"></use></svg>
+                      &nbsp;
+                      <span>ccchape</span></a>
+                    </li>
+                    <li><a href="mailto:emilio.wuerges@uffs.edu.br">
+                      <span>emilio.wuerges@uffs.edu.br</span></a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="col-md-6 mt-md-0 mt-3">
+                  <p>A Liga Chapecoense de Programação reúne os principais competidores da região do Oeste Catarinense. A liga é realizada através do CodeForces e consiste de diversas Maratonas de Programação. Tem maratona todas as semanas! A participação é gratuita. Inscreva-se.</p>
+                </div>
+                <!-- </div> -->
+                <!-- Grid column -->
+
+              </div>
+              <!-- Grid row -->
+
+            <!-- </div> -->
+            <!-- Footer Links -->
+
+          </footer>
+          <!-- Footer -->
         </div>
 
     </body>
