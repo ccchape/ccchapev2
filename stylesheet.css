@@ -14,7 +14,8 @@ body {
 }
 
 .navbar-icon:after {
-    background-color: red;
+    background-color: white;
+    border-color: white;
     content: "";
     display: block;
     width: 50px;
